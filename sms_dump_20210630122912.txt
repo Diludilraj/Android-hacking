@@ -1,0 +1,23 @@
+
+=====================
+[+] SMS messages dump
+=====================
+
+Date: 2021-06-30 12:29:13.358967076 -0400
+OS: Android 10 - Linux 4.14.117-perf-ga1dbcb7 (aarch64)
+Remote IP: 192.168.43.1
+Remote Port: 39480
+
+#1
+Type	: Incoming
+Date	: 2021-06-30 10:06:47
+Address	: QP-MYNTRA
+Status	: NOT_RECEIVED
+Message	: Dilraj, Buy 1 Get 4 Free & more coming soon Wishlist now for End Of Reason Sale Also, get Flat Rs.500 Off & 30 Day Free Shipping http://smsd.in/bgE4sGo9m
+
+#2
+Type	: Incoming
+Date	: 2021-06-30 10:06:07
+Address	: QP-MYNTRA
+Status	: NOT_RECEIVED
+Message	: Dilraj, Buy 1 Get 4 Free & more coming soon Wishlist now for End Of Reason Sale Also, get Flat Rs.500 Off & 30 Day Free Shipping http://smsd.in/bgE4sGo9m
